@@ -13,7 +13,7 @@
 * скриншоты кода;
 * теоретический рассказ о возникших проблемах.
 
-1. [Flask](aiohttp)
+1. [Flask](flask)
 2. [Docker](docker)
 3. [CI/CD](ci_cd)
 4. [Event loop. Asyncio.](asyncio)
