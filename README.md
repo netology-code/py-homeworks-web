@@ -14,8 +14,10 @@
 * теоретический рассказ о возникших проблемах.
 
 1. [Flask](flask)
-2. [Docker](docker)
-3. [CI/CD](ci_cd)
-4. [Event loop. Asyncio.](asyncio)
-5. [Aiohttp](aiohttp)
-6. [Celery](celery)
+2. Основы терминала (домашнее задание - квиз)
+3. [Docker](docker)
+4. Docker Compose
+5. [CI/CD](ci_cd)
+6. [Event loop. Asyncio.](asyncio)
+7. [Aiohttp](aiohttp)
+8. [Celery](celery)
