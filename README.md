@@ -1,5 +1,15 @@
 # Домашние задания на курсе «Python в веб-разработке»
 
+1. [Основы терминала](./01-console)
+2. [Развертывание проекта](./02-deploy)
+3. [Docker](./03-docker)
+4. [Docker Compose](./04-docker-compose)
+5. [CI/CD](./05-ci-cd)
+1. [Flask](./06-flask)
+6. [Event loop. Asyncio](./07-asyncio)
+7. [Aiohttp](./08-aiohttp)
+8. [Celery](./09-celery)
+
 ## Как сдавать задачи
 
 1. Инициализируйте на своём компьютере пустой Git-репозиторий
@@ -14,12 +24,3 @@
 - архивы;
 - скриншоты кода;
 - теоретический рассказ о возникших проблемах.
-
-1. [Flask](flask)
-2. Основы терминала (домашнее задание - квиз)
-3. [Docker](docker)
-4. [Docker Compose](docker-compose)
-5. [CI/CD](ci_cd)
-6. [Event loop. Asyncio.](asyncio)
-7. [Aiohttp](aiohttp)
-8. [Celery](celery)
