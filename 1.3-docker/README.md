@@ -7,7 +7,7 @@
 По аналогии с практикой из лекции создайте свой docker image с http сервером nginx. Замените страницу приветсвия Nginx на своё (измените текст приветствия на той же странице).
 
 <details>
-<summary>Подсказки:</summary>
+<summary>Подсказки:</summary>ps aux | grep apache
 В официальном образе nginx стандартный путь к статичным файлам `/usr/share/nginx/html`.  
 </details>
 
